@@ -1,0 +1,5 @@
+*
+!.gitignore
+chmod -R 775 storage
+chmod -R 775 public/storage
+
